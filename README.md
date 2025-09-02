@@ -30,7 +30,7 @@ Desenvolvi uma **ferramenta de automação ponta-a-ponta em Python** que criou u
 ## 🛠️ Arquitetura e Tecnologias
 
 - **Linguagem:** Python
-- **Web Scraping:** `Requests` (para requisições HTTP) e Selenium
+- **Web Scraping:** `Requests` (para requisições HTTP) e `Selenium` (para automação de navegador e extração de dados de páginas dinâmicas).
 - **Processamento de Dados:** `Pandas` (para estruturação, limpeza e análise dos dados).
 - **Envio de E-mails:** `SMTPLIB` e `email` (bibliotecas padrão do Python para automação de e-mails).
 
