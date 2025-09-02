@@ -8,7 +8,6 @@
 
 | Métrica | Impacto Gerado |
 | :--- | :--- |
-| ⚡ **Aumento de Produtividade** | **+1000%** de eficiência no processo de verificação e comunicação |
 | ⚙️ **Prevenção de Risco** | Sistema de alerta proativo para **evitar downtime** resultante da falta de pessoal |
 | 📧 **Comunicação Automatizada** | **100%** de automação no envio de relatórios de lacunas para fornecedores |
 | 🕒 **Redução de Erro Humano** | Eliminação de erros manuais na coleta e análise de dados de demanda |
